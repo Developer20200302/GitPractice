@@ -1,1 +1,1 @@
-This is the notes file for practicing Git command. Ver 1.0!!
+This is the notes file for practicing Git command. Ver 2.0!!
